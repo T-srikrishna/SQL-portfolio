@@ -1,4 +1,4 @@
-## Day 1: May 30, 2025
+## Day 1
 Completed 4 Easy queries demonstrating basic SQL skills:
 - **DVD Rentals**:
   - `sakila_select_all.sql`: Retrieve all film data.
