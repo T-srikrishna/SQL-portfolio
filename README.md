@@ -19,6 +19,8 @@ To build consistency, sharpen my SQL querying skills, and showcase my ability to
 - Sample database from [PostgreSQL Tutorial](https://www.postgresqltutorial.com/postgresql-sample-database/)
 - Use case: Video rental business
 - Tables: `customers`, `rentals`, `payments`, `films`, `inventory`, etc.
+- ER diagram: [`/dvd_rentals/schema/dvd_rental_erd.png`](./dvd_rentals/schema/dvd_rental_erd.png)
+
 
 ### 🏫 DEM_School
 - Custom school database with structured academic relationships
