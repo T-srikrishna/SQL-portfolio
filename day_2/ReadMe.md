@@ -1,7 +1,7 @@
 ### 📅 Day 2  
 Completed 4 Easy queries demonstrating aggregation and filtering. All queries are stored in a single file.
 
-**Combined File:** [`day_2.sql`](./day02.sql)
+**Combined File:** [`day_2.sql`](./Day02.SQL)
 
 **DVD Rentals:**
 - Count the number of films in the 'Action' category using `JOIN` and `GROUP BY`.
