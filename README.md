@@ -31,4 +31,3 @@ To build consistency, sharpen my SQL querying skills, and showcase my ability to
 ## Daily Progress
 Follow my 30-day SQL practice plan:
 - [Progress Log](/progress.md) for a summary of daily tasks.
-- [Daily Folders](/day_1) for individual query files and READMEs.
