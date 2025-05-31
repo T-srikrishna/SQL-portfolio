@@ -1,4 +1,4 @@
-/* Scenario: Customer requests 'PG-13' films for a family movie night.
+/* Scenario: Customer requests 'Action' films for a family movie night.
 Task: Retrieve the titles of all films rated 'Actions'. */
  -- category >> film_category >> film
 
