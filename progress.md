@@ -30,10 +30,6 @@
 
 Completed 2 SQL queries focused on **multi-table JOINs**, **aggregation**, and **filtering** using `GROUP BY`, `HAVING`, and `ORDER BY`.
 
-📁 Combined File: [`day_4_sakila_queries.sql`](/day_4/day_4_sakila_queries.sql)
-
----
-
 ### 🎬 Sakila DVD – Total Rental Revenue per Film
 
 **Scenario**:  
