@@ -1,6 +1,6 @@
 # 📅 Day 3
 
-Completed 2 SQL queries focused on **multi-table JOINs**, **aggregation**, and **filtering** using `GROUP BY`, `HAVING`, and `ORDER BY`.
+Completed SQL queries focused on **multi-table JOINs**, **aggregation**, and **filtering** using `GROUP BY`, `HAVING`, and `ORDER BY`.
 
 ## 🎬 DVD Rentals – Top 5 Customers by Rentals
 
