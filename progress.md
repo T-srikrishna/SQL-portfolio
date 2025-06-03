@@ -7,7 +7,7 @@
 ✅ Completed 2 Easy queries:  
 - SELECT all films  
 - Filter films in the 'Action' category  
-📁 See: `/day_1`
+📁 See: [Day 1](/day_1)
 
 ---
 
@@ -15,14 +15,14 @@
 🎬 **DVD Rentals**  
 ✅ Count number of films in 'Action' category (JOIN + GROUP BY)  
 ✅ Retrieve films with rental rate of 4.99  
-📁 See: `/day_2`
+📁 See: [Day 2](/day_2)
 
 ---
 
 ## 📅 Day 3  
 🎬 **DVD Rentals**  
 ✅ Top 5 customers by number of rentals (JOIN + COUNT + ORDER BY + LIMIT)  
-📁 See: `/day_3`
+📁 See: [Day 3](/day_3)
 
 ---
 
@@ -30,7 +30,7 @@
 
 Completed 2 SQL queries focused on **multi-table JOINs**, **aggregation**, and **filtering** using `GROUP BY`, `HAVING`, and `ORDER BY`.
 
-📁 Combined File: `day_4_sakila_queries.sql`
+📁 Combined File: [`day_4_sakila_queries.sql`](/day_4/day_4_sakila_queries.sql)
 
 ---
 
