@@ -1,5 +1,5 @@
 ### 📅 Day 2  
-Completed 4 Easy queries demonstrating aggregation and filtering. All queries are stored in a single file.
+Completed queries demonstrating aggregation and filtering. All queries are stored in a single file.
 
 **Combined File:** [`day_2.sql`](./Day02.SQL)
 
