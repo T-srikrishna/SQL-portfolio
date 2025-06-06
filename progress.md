@@ -31,3 +31,11 @@
 ✅ Total rental revenue per film (LEFT JOIN + SUM + GROUP BY + HAVING + ORDER BY)  
 ✅ Actors with more than 10 films (JOIN + COUNT + GROUP BY + HAVING + ORDER BY)  
 📁 See: [Day 4](/day_4)
+
+---
+
+## 📅 Day 5  
+🎬 **DVD Rentals**  
+✅ Customers who rented the same film more than once (JOIN + COUNT + GROUP BY + HAVING)  
+✅ Average rental duration per film (JOIN + DATE DIFF + EXTRACT EPOCH + AVG + ROUND)  
+📁 See: [Day 5](/day_5)
