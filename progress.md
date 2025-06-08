@@ -39,3 +39,10 @@
 ✅ Customers who rented the same film more than once (JOIN + COUNT + GROUP BY + HAVING)  
 ✅ Average rental duration per film (JOIN + DATE DIFF + EXTRACT EPOCH + AVG + ROUND)  
 📁 See: [Day 5](/day_5)
+
+---
+
+## 📅 Day 6  
+🎬 **DVD Rentals**  
+✅ Films rented more than the average (JOIN + GROUP BY + HAVING + Subquery and CTE versions)  
+📁 See: [Day 6](/day_6)
