@@ -46,3 +46,11 @@
 🎬 **DVD Rentals**  
 ✅ Films rented more than the average (JOIN + GROUP BY + HAVING + Subquery and CTE versions)  
 📁 See: [Day 6](/day_6)
+
+---
+
+## 📅 Day 7  
+🎬 **DVD Rentals**  
+✅ Top 3 most profitable film categories (LEFT JOIN + SUM + GROUP BY + ORDER BY + LIMIT)  
+✅ Customers with unpaid rentals (JOIN + LEFT JOIN + NULL filtering + DISTINCT)  
+📁 See: [Day 7](/day_7)
