@@ -2,8 +2,6 @@
 
 Wrote 2 versions of the same query to figure out **which films are rented more than the average number of times** — one using a subquery and another using a CTE. Main goal was to practice comparing aggregated values in SQL.
 
-**Combined File**: `day_6_sakila_queries.sql`
-
 ---
 
 ## 🎬 Sakila DVD – Films Rented More Than the Average
