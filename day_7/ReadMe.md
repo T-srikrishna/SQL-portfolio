@@ -1,7 +1,6 @@
 📅 Day 7  
 Worked on two analytical queries designed to help the business and accounting teams make informed decisions. One query identified the top-performing film categories by revenue, while the other spotted customers who rented movies but never paid. Main goal was to practice JOIN logic, aggregation, filtering with `NULL`, and business insights through SQL.
 
-Combined File: day_7_sakila_queries.sql
 
 💰 Sakila DVD – Top 3 Most Profitable Film Categories  
 Scenario:  
