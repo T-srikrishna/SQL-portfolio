@@ -2,7 +2,6 @@
 
 Completed 2 SQL queries focused on **multi-table JOINs**, **aggregation**, and **filtering** using `GROUP BY`, `HAVING`, and `ORDER BY`.
 
-**Combined File**: `day_3_sakila_queries.sql`
 
 ---
 
