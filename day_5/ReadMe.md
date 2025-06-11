@@ -2,7 +2,6 @@
 
 Completed 2 SQL queries focused on **customer behavior analysis** and **rental duration metrics** using `JOIN`, `GROUP BY`, `HAVING`, date arithmetic, and `EXTRACT`.
 
-**Combined File**: `day_5_sakila_queries.sql`
 
 ---
 
