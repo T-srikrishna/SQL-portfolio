@@ -54,3 +54,13 @@
 ✅ Top 3 most profitable film categories (LEFT JOIN + SUM + GROUP BY + ORDER BY + LIMIT)  
 ✅ Customers with unpaid rentals (JOIN + LEFT JOIN + NULL filtering + DISTINCT)  
 📁 See: [Day 7](/day_7)
+
+---
+
+## 📅 Day 8  
+🎬 **DVD Rentals**  
+✅ Films with perfect return records (EXISTS + NOT EXISTS + Subqueries + Date difference filtering)  
+- Identified films that were rented at least once and never returned late  
+- Practiced filtering binary conditions using EXISTS/NOT EXISTS  
+- Applied date arithmetic to compare rental duration and actual return time  
+📁 See: [Day 8](/day_8)
