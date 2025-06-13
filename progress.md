@@ -64,3 +64,14 @@
 - Practiced filtering binary conditions using EXISTS/NOT EXISTS  
 - Applied date arithmetic to compare rental duration and actual return time  
 📁 See: [Day 8](/day_8)
+
+---
+
+## 📅 Day 9  
+📊 **Rental Trends & Customer Demographics**  
+✅ Calculated total rentals per month for 2005 (Aggregation + Date functions + Grouping)  
+✅ Identified the city with the highest number of customers (Joins + Grouping + Ordering + LIMIT)  
+- Used `EXTRACT` and `TO_CHAR` to handle dates and group by month  
+- Joined `city`, `address`, and `customer` tables to aggregate customer counts by city  
+- Practiced top-N queries with `ORDER BY` and `LIMIT`  
+📁 See: [Day 9](/day_9)
