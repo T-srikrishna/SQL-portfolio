@@ -89,3 +89,14 @@
 - Joined `rental → inventory → film` to retrieve distinct film titles  
 📁 See: [Day 10](/day_10)
 
+---
+
+## 📅 Day 11  
+🔍 Real-World Business Insights with SQL  
+✅ Listed staff members who processed over 1000 payments (JOIN + COUNT + GROUP BY + HAVING)  
+✅ Found films available in inventory but never rented (EXISTS + NOT EXISTS + Subqueries)  
+✅ Calculated total payment amounts grouped by customer country (Multi-level JOIN + SUM + GROUP BY + ORDER BY)  
+- Identified top-performing staff by payment count for rewards  
+- Extracted films in stock with zero rental history to promote  
+- Summarized revenue by country using joined geographic tables  
+📁 See: [Day 11](/day_11)
