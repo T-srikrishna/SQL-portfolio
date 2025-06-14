@@ -75,3 +75,15 @@
 - Joined `city`, `address`, and `customer` tables to aggregate customer counts by city  
 - Practiced top-N queries with `ORDER BY` and `LIMIT`  
 📁 See: [Day 9](/day_9)
+
+---
+
+## 📅 Day 10  
+🎬 **DVD Rentals**  
+✅ Films rented but never returned (CTE + EXISTS + NULL filtering + JOINs)  
+- Used `return_date IS NULL` to find rentals not yet returned  
+- Applied `EXISTS` to ensure rentals are linked to valid films  
+- Used `WITH` CTE to modularize query structure  
+- Joined `rental → inventory → film` to retrieve film titles  
+- Applied `DISTINCT` to avoid listing duplicate film titles  
+📁 See: [Day 10](/day_10)
