@@ -80,10 +80,12 @@
 
 ## 📅 Day 10  
 🎬 **DVD Rentals**  
-✅ Films rented but never returned (CTE + EXISTS + NULL filtering + JOINs)  
-- Used `return_date IS NULL` to find rentals not yet returned  
-- Applied `EXISTS` to ensure rentals are linked to valid films  
-- Used `WITH` CTE to modularize query structure  
-- Joined `rental → inventory → film` to retrieve film titles  
-- Applied `DISTINCT` to avoid listing duplicate film titles  
+✅ Found customers with rentals in multiple cities (JOINs + GROUP BY + COUNT DISTINCT + HAVING)  
+✅ Calculated longest rental period per customer (JOIN + DATE difference + MAX + GROUP BY)  
+✅ Identified films rented but never returned (CTE + EXISTS + NULL filtering + JOINs)  
+- Used `COUNT(DISTINCT city_id)` and `HAVING > 1` to find customers renting from multiple cities  
+- Calculated maximum rental duration by subtracting rental and return dates  
+- Used `return_date IS NULL` and `EXISTS` in a CTE to find films currently out on rental  
+- Joined `rental → inventory → film` to retrieve distinct film titles  
 📁 See: [Day 10](/day_10)
+
