@@ -100,3 +100,14 @@
 - Extracted films in stock with zero rental history to promote  
 - Summarized revenue by country using joined geographic tables  
 📁 See: [Day 11](/day_11)
+
+---
+
+## 📅 Day 12  
+🔍 Customer Rental & Payment Rankings Analysis with SQL Window Functions  
+✅ Calculated average number of films rented per customer (CTE + COUNT + AVG)  
+✅ Ranked customers by total payment amount using `DENSE_RANK()` window function  
+- Practiced Common Table Expressions (CTEs) for modular queries  
+- Used aggregation and window functions together for ranking  
+- Learned difference between ranking methods and practical use cases  
+📁 See: [Day 12](/day_12)
