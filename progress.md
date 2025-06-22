@@ -111,3 +111,15 @@
 - Used aggregation and window functions together for ranking  
 - Learned difference between ranking methods and practical use cases  
 📁 See: [Day 12](/day_12)
+
+---
+
+## 📅 Day 13  
+📈 **Revenue Trends and Film Performance Analysis Using Window Functions**  
+✅ Calculated cumulative rental revenue by month (DATE_TRUNC + SUM + WINDOW FUNCTION)  
+✅ Identified top 3 films per category by total rental revenue (CTE + RANK() + PARTITION BY)  
+- Practiced financial time-series aggregation using `SUM()` and `OVER()`  
+- Used `RANK()` window function to rank films within each category  
+- Filtered top-N ranked rows using `WHERE revenue_rank <= 3`  
+- Joined payment, rental, inventory, film, and category-related tables  
+📁 See: [Day 13](/day_13)
