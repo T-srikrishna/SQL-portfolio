@@ -142,5 +142,5 @@ Today's session focused on mastering a variety of **SQL window functions** using
 - Cumulative sum, average, count, max, and min  
 - Window frame clauses and partitioning  
 
-📁 See: [Day 14](/day_14)
+📁 See: [Day 14](/day_14_Window_Functions/)
 
