@@ -123,3 +123,24 @@
 - Filtered top-N ranked rows using `WHERE revenue_rank <= 3`  
 - Joined payment, rental, inventory, film, and category-related tables  
 📁 See: [Day 13](/day_13)
+
+---
+
+## 📅 Day 14  
+🔍 **Advanced SQL Practice: Window Functions on Payment Data**
+
+Today's session focused on mastering a variety of **SQL window functions** using the `payment` table. The goal was to explore analytical patterns such as row-based calculations, cumulative summaries, and ranking.
+
+✅ Practiced concepts:  
+- Row numbering with `RANK()`  
+- Calculating difference with `LAG()`  
+- Customer-wise averages with `AVG()`  
+- Top-N payments per customer using `RANK()` + CTE  
+- Percentile ranking with `PERCENT_RANK()`  
+- Moving averages with window frames  
+- First and last values with `FIRST_VALUE()` and `LAST_VALUE()`  
+- Cumulative sum, average, count, max, and min  
+- Window frame clauses and partitioning  
+
+📁 See: [Day 14](/day_14)
+
