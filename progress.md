@@ -7,7 +7,8 @@
 ✅ Completed 2 Easy queries:  
 - SELECT all films  
 - Filter films in the 'Action' category  
-📁 See: [Day 1](/day_1)
+📁 See: [Day 1](Daily_Progress
+/day_1)
 
 ---
 
@@ -15,14 +16,14 @@
 🎬 **DVD Rentals**  
 ✅ Count number of films in 'Action' category (JOIN + GROUP BY)  
 ✅ Retrieve films with rental rate of 4.99  
-📁 See: [Day 2](/day_2)
+📁 See: [Day 2](Daily_Progress/day_2)
 
 ---
 
 ## 📅 Day 3  
 🎬 **DVD Rentals**  
 ✅ Top 5 customers by number of rentals (JOIN + COUNT + ORDER BY + LIMIT)  
-📁 See: [Day 3](/day_3)
+📁 See: [Day 3](Daily_Progress/day_3)
 
 ---
 
@@ -30,7 +31,7 @@
 🎬 **DVD Rentals**  
 ✅ Total rental revenue per film (LEFT JOIN + SUM + GROUP BY + HAVING + ORDER BY)  
 ✅ Actors with more than 10 films (JOIN + COUNT + GROUP BY + HAVING + ORDER BY)  
-📁 See: [Day 4](/day_4)
+📁 See: [Day 4](Daily_Progress/day_4)
 
 ---
 
@@ -38,14 +39,14 @@
 🎬 **DVD Rentals**  
 ✅ Customers who rented the same film more than once (JOIN + COUNT + GROUP BY + HAVING)  
 ✅ Average rental duration per film (JOIN + DATE DIFF + EXTRACT EPOCH + AVG + ROUND)  
-📁 See: [Day 5](/day_5)
+📁 See: [Day 5](Daily_Progress/day_5)
 
 ---
 
 ## 📅 Day 6  
 🎬 **DVD Rentals**  
 ✅ Films rented more than the average (JOIN + GROUP BY + HAVING + Subquery and CTE versions)  
-📁 See: [Day 6](/day_6)
+📁 See: [Day 6](Daily_Progress/day_6)
 
 ---
 
@@ -53,7 +54,7 @@
 🎬 **DVD Rentals**  
 ✅ Top 3 most profitable film categories (LEFT JOIN + SUM + GROUP BY + ORDER BY + LIMIT)  
 ✅ Customers with unpaid rentals (JOIN + LEFT JOIN + NULL filtering + DISTINCT)  
-📁 See: [Day 7](/day_7)
+📁 See: [Day 7](Daily_Progress/day_7)
 
 ---
 
@@ -63,7 +64,7 @@
 - Identified films that were rented at least once and never returned late  
 - Practiced filtering binary conditions using EXISTS/NOT EXISTS  
 - Applied date arithmetic to compare rental duration and actual return time  
-📁 See: [Day 8](/day_8)
+📁 See: [Day 8](Daily_Progress/day_8)
 
 ---
 
@@ -74,7 +75,7 @@
 - Used `EXTRACT` and `TO_CHAR` to handle dates and group by month  
 - Joined `city`, `address`, and `customer` tables to aggregate customer counts by city  
 - Practiced top-N queries with `ORDER BY` and `LIMIT`  
-📁 See: [Day 9](/day_9)
+📁 See: [Day 9](Daily_Progress/day_9)
 
 ---
 
@@ -87,7 +88,7 @@
 - Calculated maximum rental duration by subtracting rental and return dates  
 - Used `return_date IS NULL` and `EXISTS` in a CTE to find films currently out on rental  
 - Joined `rental → inventory → film` to retrieve distinct film titles  
-📁 See: [Day 10](/day_10)
+📁 See: [Day 10](Daily_Progress/day_10)
 
 ---
 
@@ -99,7 +100,7 @@
 - Identified top-performing staff by payment count for rewards  
 - Extracted films in stock with zero rental history to promote  
 - Summarized revenue by country using joined geographic tables  
-📁 See: [Day 11](/day_11)
+📁 See: [Day 11](Daily_Progress/day_11)
 
 ---
 
@@ -110,7 +111,7 @@
 - Practiced Common Table Expressions (CTEs) for modular queries  
 - Used aggregation and window functions together for ranking  
 - Learned difference between ranking methods and practical use cases  
-📁 See: [Day 12](/day_12)
+📁 See: [Day 12](Daily_Progress/day_12)
 
 ---
 
@@ -122,7 +123,7 @@
 - Used `RANK()` window function to rank films within each category  
 - Filtered top-N ranked rows using `WHERE revenue_rank <= 3`  
 - Joined payment, rental, inventory, film, and category-related tables  
-📁 See: [Day 13](/day_13)
+📁 See: [Day 13](Daily_Progress/day_13)
 
 ---
 
@@ -142,5 +143,5 @@ Today's session focused on mastering a variety of **SQL window functions** using
 - Cumulative sum, average, count, max, and min  
 - Window frame clauses and partitioning  
 
-📁 See: [Day 14](/day_14_Window_Functions/)
+📁 See: [Day 14](Daily_Progress/day_14_Window_Functions/)
 
