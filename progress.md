@@ -7,8 +7,7 @@
 ✅ Completed 2 Easy queries:  
 - SELECT all films  
 - Filter films in the 'Action' category  
-📁 See: [Day 1](Daily_Progress
-/day_1)
+📁 See: [Day 1](/Daily_Progress/day_1)
 
 ---
 
