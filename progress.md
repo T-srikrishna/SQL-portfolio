@@ -16,7 +16,7 @@
 🎬 **DVD Rentals**  
 ✅ Count number of films in 'Action' category (JOIN + GROUP BY)  
 ✅ Retrieve films with rental rate of 4.99  
-📁 See: [Day 2](Daily_Progress/day_2)
+📁 See: [Day 2](/Daily_Progress/day_2)
 
 ---
 
