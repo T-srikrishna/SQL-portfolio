@@ -21,5 +21,5 @@ To build consistency, sharpen my SQL querying skills, and showcase my ability to
 - ER diagram: [`/dvd_rentals/schema/dvd_rental_erd.png`](./dvd_rentals/schema/dvd_rental_erd.png)
 
 ## Daily Progress
-Follow my 30-day SQL practice plan:
+Follow my 15-day SQL practice plan:
 - [Progress Log](/progress.md) for a summary of daily tasks.
