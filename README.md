@@ -1,4 +1,4 @@
-# 🗃️ SQL Portfolio – Daily Practice with Sakilla DVD Rentals Db
+# 🗃️ SQL – Daily Practice with Sakilla DVD Rentals Db
 
 Welcome to my SQL practice portfolio! This repository documents my **daily SQL learning journey** through hands-on problem solving using
 
